@@ -1,0 +1,16 @@
+Steps for using the Python Package
+
+1. Import the module
+-> import myBlockChain as mp
+
+2. Create an object of the class
+
+  blockchain = bp.Blockchain()
+
+3. Following functions can be used to experience your blockchain
+
+-> blockchain.get_chain() : returns the entire BlockChain
+
+-> blockchain.add_transaction(sender,receiver,amount) : To add transaction to the block
+
+-> blockchain.mine_block() : To mine the current block 

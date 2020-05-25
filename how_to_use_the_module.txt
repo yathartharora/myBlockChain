@@ -5,7 +5,7 @@ Steps for using the Python Package
 
 2. Create an object of the class
 
-  blockchain = bp.Blockchain()
+  blockchain = mp.Blockchain()
 
 3. Following functions can be used to experience your blockchain
 

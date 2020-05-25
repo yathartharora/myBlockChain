@@ -2,7 +2,6 @@ import datetime
 import hashlib
 import json
 
-#Build a Blockchain
 class Blockchain:
 
     def __init__(self):
